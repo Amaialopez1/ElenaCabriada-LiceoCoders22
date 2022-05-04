@@ -3,3 +3,5 @@ Fetch: El comando git fetch descarga commits, archivos y referencias de un repos
 Pull: Para descargar contenido de un repositorio remoto.
 git pull constituye una alternativa más agresiva, ya que descarga el contenido remoto a la rama local activa e inmediatamente ejecuta.
 Push:El comando git push te permite subir los commits desde tu rama (branch) local en tu repositorio git local al repositorio remoto.
+
+Comentario Matias Zito
